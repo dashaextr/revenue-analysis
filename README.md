@@ -1,9 +1,7 @@
-# revenue-analysis
-Analysis of revenue trends, churn, and customer behaviour
 # Revenue & Customer Metrics Analysis
 
 ## Overview
-This project analyses revenue trends and customer behaviour to understand business performance and identify growth opportunities.
+This project analyses revenue trends and customer behaviour to evaluate business performance and identify growth opportunities.
 
 ## Key Questions
 - How does revenue change over time?
@@ -15,6 +13,9 @@ This project analyses revenue trends and customer behaviour to understand busine
 - SQL
 - Tableau
 
+## Dashboard
+https://public.tableau.com/app/profile/daria.korienieva/viz/revenue_project/RevenueMetricsProject?publish=yes
+
 ## Key Insights
 - Identified trends in revenue growth and decline
 - Detected segments of users contributing to churn
@@ -24,3 +25,9 @@ This project analyses revenue trends and customer behaviour to understand busine
 - Focus on retaining high-value users
 - Improve engagement strategies to reduce churn
 - Monitor key revenue metrics regularly
+
+## Skills Demonstrated
+- Data analysis and reporting
+- SQL querying
+- Dashboard development
+- Business performance analysis
